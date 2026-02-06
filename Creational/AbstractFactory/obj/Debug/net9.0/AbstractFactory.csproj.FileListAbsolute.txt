@@ -1,0 +1,15 @@
+D:\csharp-design-patterns\Creational\AbstractFactory\bin\Debug\net9.0\AbstractFactory.exe
+D:\csharp-design-patterns\Creational\AbstractFactory\bin\Debug\net9.0\AbstractFactory.deps.json
+D:\csharp-design-patterns\Creational\AbstractFactory\bin\Debug\net9.0\AbstractFactory.runtimeconfig.json
+D:\csharp-design-patterns\Creational\AbstractFactory\bin\Debug\net9.0\AbstractFactory.dll
+D:\csharp-design-patterns\Creational\AbstractFactory\bin\Debug\net9.0\AbstractFactory.pdb
+D:\csharp-design-patterns\Creational\AbstractFactory\obj\Debug\net9.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-design-patterns\Creational\AbstractFactory\obj\Debug\net9.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\csharp-design-patterns\Creational\AbstractFactory\obj\Debug\net9.0\AbstractFactory.AssemblyInfo.cs
+D:\csharp-design-patterns\Creational\AbstractFactory\obj\Debug\net9.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\csharp-design-patterns\Creational\AbstractFactory\obj\Debug\net9.0\AbstractFactory.sourcelink.json
+D:\csharp-design-patterns\Creational\AbstractFactory\obj\Debug\net9.0\AbstractFactory.dll
+D:\csharp-design-patterns\Creational\AbstractFactory\obj\Debug\net9.0\refint\AbstractFactory.dll
+D:\csharp-design-patterns\Creational\AbstractFactory\obj\Debug\net9.0\AbstractFactory.pdb
+D:\csharp-design-patterns\Creational\AbstractFactory\obj\Debug\net9.0\AbstractFactory.genruntimeconfig.cache
+D:\csharp-design-patterns\Creational\AbstractFactory\obj\Debug\net9.0\ref\AbstractFactory.dll
