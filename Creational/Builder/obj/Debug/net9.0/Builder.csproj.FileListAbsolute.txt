@@ -1,0 +1,15 @@
+D:\csharp-design-patterns\Creational\Builder\bin\Debug\net9.0\Builder.exe
+D:\csharp-design-patterns\Creational\Builder\bin\Debug\net9.0\Builder.deps.json
+D:\csharp-design-patterns\Creational\Builder\bin\Debug\net9.0\Builder.runtimeconfig.json
+D:\csharp-design-patterns\Creational\Builder\bin\Debug\net9.0\Builder.dll
+D:\csharp-design-patterns\Creational\Builder\bin\Debug\net9.0\Builder.pdb
+D:\csharp-design-patterns\Creational\Builder\obj\Debug\net9.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-design-patterns\Creational\Builder\obj\Debug\net9.0\Builder.AssemblyInfoInputs.cache
+D:\csharp-design-patterns\Creational\Builder\obj\Debug\net9.0\Builder.AssemblyInfo.cs
+D:\csharp-design-patterns\Creational\Builder\obj\Debug\net9.0\Builder.csproj.CoreCompileInputs.cache
+D:\csharp-design-patterns\Creational\Builder\obj\Debug\net9.0\Builder.sourcelink.json
+D:\csharp-design-patterns\Creational\Builder\obj\Debug\net9.0\Builder.dll
+D:\csharp-design-patterns\Creational\Builder\obj\Debug\net9.0\refint\Builder.dll
+D:\csharp-design-patterns\Creational\Builder\obj\Debug\net9.0\Builder.pdb
+D:\csharp-design-patterns\Creational\Builder\obj\Debug\net9.0\Builder.genruntimeconfig.cache
+D:\csharp-design-patterns\Creational\Builder\obj\Debug\net9.0\ref\Builder.dll
