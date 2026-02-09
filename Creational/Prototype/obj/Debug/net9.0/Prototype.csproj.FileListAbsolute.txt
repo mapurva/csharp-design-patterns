@@ -1,0 +1,15 @@
+D:\csharp-design-patterns\Creational\Prototype\bin\Debug\net9.0\Prototype.exe
+D:\csharp-design-patterns\Creational\Prototype\bin\Debug\net9.0\Prototype.deps.json
+D:\csharp-design-patterns\Creational\Prototype\bin\Debug\net9.0\Prototype.runtimeconfig.json
+D:\csharp-design-patterns\Creational\Prototype\bin\Debug\net9.0\Prototype.dll
+D:\csharp-design-patterns\Creational\Prototype\bin\Debug\net9.0\Prototype.pdb
+D:\csharp-design-patterns\Creational\Prototype\obj\Debug\net9.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-design-patterns\Creational\Prototype\obj\Debug\net9.0\Prototype.AssemblyInfoInputs.cache
+D:\csharp-design-patterns\Creational\Prototype\obj\Debug\net9.0\Prototype.AssemblyInfo.cs
+D:\csharp-design-patterns\Creational\Prototype\obj\Debug\net9.0\Prototype.csproj.CoreCompileInputs.cache
+D:\csharp-design-patterns\Creational\Prototype\obj\Debug\net9.0\Prototype.sourcelink.json
+D:\csharp-design-patterns\Creational\Prototype\obj\Debug\net9.0\Prototype.dll
+D:\csharp-design-patterns\Creational\Prototype\obj\Debug\net9.0\refint\Prototype.dll
+D:\csharp-design-patterns\Creational\Prototype\obj\Debug\net9.0\Prototype.pdb
+D:\csharp-design-patterns\Creational\Prototype\obj\Debug\net9.0\Prototype.genruntimeconfig.cache
+D:\csharp-design-patterns\Creational\Prototype\obj\Debug\net9.0\ref\Prototype.dll
