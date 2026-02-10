@@ -1,0 +1,15 @@
+D:\csharp-design-patterns\Structural\Adapter\bin\Debug\net9.0\Adapter.exe
+D:\csharp-design-patterns\Structural\Adapter\bin\Debug\net9.0\Adapter.deps.json
+D:\csharp-design-patterns\Structural\Adapter\bin\Debug\net9.0\Adapter.runtimeconfig.json
+D:\csharp-design-patterns\Structural\Adapter\bin\Debug\net9.0\Adapter.dll
+D:\csharp-design-patterns\Structural\Adapter\bin\Debug\net9.0\Adapter.pdb
+D:\csharp-design-patterns\Structural\Adapter\obj\Debug\net9.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-design-patterns\Structural\Adapter\obj\Debug\net9.0\Adapter.AssemblyInfoInputs.cache
+D:\csharp-design-patterns\Structural\Adapter\obj\Debug\net9.0\Adapter.AssemblyInfo.cs
+D:\csharp-design-patterns\Structural\Adapter\obj\Debug\net9.0\Adapter.csproj.CoreCompileInputs.cache
+D:\csharp-design-patterns\Structural\Adapter\obj\Debug\net9.0\Adapter.sourcelink.json
+D:\csharp-design-patterns\Structural\Adapter\obj\Debug\net9.0\Adapter.dll
+D:\csharp-design-patterns\Structural\Adapter\obj\Debug\net9.0\refint\Adapter.dll
+D:\csharp-design-patterns\Structural\Adapter\obj\Debug\net9.0\Adapter.pdb
+D:\csharp-design-patterns\Structural\Adapter\obj\Debug\net9.0\Adapter.genruntimeconfig.cache
+D:\csharp-design-patterns\Structural\Adapter\obj\Debug\net9.0\ref\Adapter.dll

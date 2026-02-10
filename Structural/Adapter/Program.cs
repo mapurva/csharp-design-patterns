@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using AdapterPattern;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        IPaymentProcessor paymentProcessor = new BankAdapter();
+
+        paymentProcessor.Pay(1500.50);
+    }
+}
