@@ -1,0 +1,15 @@
+D:\csharp-design-patterns\Structural\Facade\bin\Debug\net9.0\Facade.exe
+D:\csharp-design-patterns\Structural\Facade\bin\Debug\net9.0\Facade.deps.json
+D:\csharp-design-patterns\Structural\Facade\bin\Debug\net9.0\Facade.runtimeconfig.json
+D:\csharp-design-patterns\Structural\Facade\bin\Debug\net9.0\Facade.dll
+D:\csharp-design-patterns\Structural\Facade\bin\Debug\net9.0\Facade.pdb
+D:\csharp-design-patterns\Structural\Facade\obj\Debug\net9.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-design-patterns\Structural\Facade\obj\Debug\net9.0\Facade.AssemblyInfoInputs.cache
+D:\csharp-design-patterns\Structural\Facade\obj\Debug\net9.0\Facade.AssemblyInfo.cs
+D:\csharp-design-patterns\Structural\Facade\obj\Debug\net9.0\Facade.csproj.CoreCompileInputs.cache
+D:\csharp-design-patterns\Structural\Facade\obj\Debug\net9.0\Facade.sourcelink.json
+D:\csharp-design-patterns\Structural\Facade\obj\Debug\net9.0\Facade.dll
+D:\csharp-design-patterns\Structural\Facade\obj\Debug\net9.0\refint\Facade.dll
+D:\csharp-design-patterns\Structural\Facade\obj\Debug\net9.0\Facade.pdb
+D:\csharp-design-patterns\Structural\Facade\obj\Debug\net9.0\Facade.genruntimeconfig.cache
+D:\csharp-design-patterns\Structural\Facade\obj\Debug\net9.0\ref\Facade.dll
