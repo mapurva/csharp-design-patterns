@@ -1,0 +1,15 @@
+D:\csharp-design-patterns\Structural\Proxy\bin\Debug\net9.0\Proxy.exe
+D:\csharp-design-patterns\Structural\Proxy\bin\Debug\net9.0\Proxy.deps.json
+D:\csharp-design-patterns\Structural\Proxy\bin\Debug\net9.0\Proxy.runtimeconfig.json
+D:\csharp-design-patterns\Structural\Proxy\bin\Debug\net9.0\Proxy.dll
+D:\csharp-design-patterns\Structural\Proxy\bin\Debug\net9.0\Proxy.pdb
+D:\csharp-design-patterns\Structural\Proxy\obj\Debug\net9.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-design-patterns\Structural\Proxy\obj\Debug\net9.0\Proxy.AssemblyInfoInputs.cache
+D:\csharp-design-patterns\Structural\Proxy\obj\Debug\net9.0\Proxy.AssemblyInfo.cs
+D:\csharp-design-patterns\Structural\Proxy\obj\Debug\net9.0\Proxy.csproj.CoreCompileInputs.cache
+D:\csharp-design-patterns\Structural\Proxy\obj\Debug\net9.0\Proxy.sourcelink.json
+D:\csharp-design-patterns\Structural\Proxy\obj\Debug\net9.0\Proxy.dll
+D:\csharp-design-patterns\Structural\Proxy\obj\Debug\net9.0\refint\Proxy.dll
+D:\csharp-design-patterns\Structural\Proxy\obj\Debug\net9.0\Proxy.pdb
+D:\csharp-design-patterns\Structural\Proxy\obj\Debug\net9.0\Proxy.genruntimeconfig.cache
+D:\csharp-design-patterns\Structural\Proxy\obj\Debug\net9.0\ref\Proxy.dll
