@@ -1,0 +1,15 @@
+D:\csharp-design-patterns\Behavioral\Strategy\bin\Debug\net9.0\Strategy.exe
+D:\csharp-design-patterns\Behavioral\Strategy\bin\Debug\net9.0\Strategy.deps.json
+D:\csharp-design-patterns\Behavioral\Strategy\bin\Debug\net9.0\Strategy.runtimeconfig.json
+D:\csharp-design-patterns\Behavioral\Strategy\bin\Debug\net9.0\Strategy.dll
+D:\csharp-design-patterns\Behavioral\Strategy\bin\Debug\net9.0\Strategy.pdb
+D:\csharp-design-patterns\Behavioral\Strategy\obj\Debug\net9.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-design-patterns\Behavioral\Strategy\obj\Debug\net9.0\Strategy.AssemblyInfoInputs.cache
+D:\csharp-design-patterns\Behavioral\Strategy\obj\Debug\net9.0\Strategy.AssemblyInfo.cs
+D:\csharp-design-patterns\Behavioral\Strategy\obj\Debug\net9.0\Strategy.csproj.CoreCompileInputs.cache
+D:\csharp-design-patterns\Behavioral\Strategy\obj\Debug\net9.0\Strategy.sourcelink.json
+D:\csharp-design-patterns\Behavioral\Strategy\obj\Debug\net9.0\Strategy.dll
+D:\csharp-design-patterns\Behavioral\Strategy\obj\Debug\net9.0\refint\Strategy.dll
+D:\csharp-design-patterns\Behavioral\Strategy\obj\Debug\net9.0\Strategy.pdb
+D:\csharp-design-patterns\Behavioral\Strategy\obj\Debug\net9.0\Strategy.genruntimeconfig.cache
+D:\csharp-design-patterns\Behavioral\Strategy\obj\Debug\net9.0\ref\Strategy.dll
