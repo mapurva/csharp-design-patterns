@@ -1,0 +1,15 @@
+D:\csharp-design-patterns\Behavioral\Command\bin\Debug\net9.0\Command.exe
+D:\csharp-design-patterns\Behavioral\Command\bin\Debug\net9.0\Command.deps.json
+D:\csharp-design-patterns\Behavioral\Command\bin\Debug\net9.0\Command.runtimeconfig.json
+D:\csharp-design-patterns\Behavioral\Command\bin\Debug\net9.0\Command.dll
+D:\csharp-design-patterns\Behavioral\Command\bin\Debug\net9.0\Command.pdb
+D:\csharp-design-patterns\Behavioral\Command\obj\Debug\net9.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-design-patterns\Behavioral\Command\obj\Debug\net9.0\Command.AssemblyInfoInputs.cache
+D:\csharp-design-patterns\Behavioral\Command\obj\Debug\net9.0\Command.AssemblyInfo.cs
+D:\csharp-design-patterns\Behavioral\Command\obj\Debug\net9.0\Command.csproj.CoreCompileInputs.cache
+D:\csharp-design-patterns\Behavioral\Command\obj\Debug\net9.0\Command.sourcelink.json
+D:\csharp-design-patterns\Behavioral\Command\obj\Debug\net9.0\Command.dll
+D:\csharp-design-patterns\Behavioral\Command\obj\Debug\net9.0\refint\Command.dll
+D:\csharp-design-patterns\Behavioral\Command\obj\Debug\net9.0\Command.pdb
+D:\csharp-design-patterns\Behavioral\Command\obj\Debug\net9.0\Command.genruntimeconfig.cache
+D:\csharp-design-patterns\Behavioral\Command\obj\Debug\net9.0\ref\Command.dll
