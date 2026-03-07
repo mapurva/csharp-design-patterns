@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using StatePattern;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        VendingMachine machine = new VendingMachine();
+
+        machine.PressButton();
+        machine.InsertCoin();
+        machine.InsertCoin();
+        machine.PressButton();
+        machine.PressButton();
+    }
+}
