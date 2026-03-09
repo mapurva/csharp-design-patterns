@@ -1,0 +1,15 @@
+D:\csharp-design-patterns\Behavioral\TemplateMethod\bin\Debug\net9.0\TemplateMethod.exe
+D:\csharp-design-patterns\Behavioral\TemplateMethod\bin\Debug\net9.0\TemplateMethod.deps.json
+D:\csharp-design-patterns\Behavioral\TemplateMethod\bin\Debug\net9.0\TemplateMethod.runtimeconfig.json
+D:\csharp-design-patterns\Behavioral\TemplateMethod\bin\Debug\net9.0\TemplateMethod.dll
+D:\csharp-design-patterns\Behavioral\TemplateMethod\bin\Debug\net9.0\TemplateMethod.pdb
+D:\csharp-design-patterns\Behavioral\TemplateMethod\obj\Debug\net9.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-design-patterns\Behavioral\TemplateMethod\obj\Debug\net9.0\TemplateMethod.AssemblyInfoInputs.cache
+D:\csharp-design-patterns\Behavioral\TemplateMethod\obj\Debug\net9.0\TemplateMethod.AssemblyInfo.cs
+D:\csharp-design-patterns\Behavioral\TemplateMethod\obj\Debug\net9.0\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\csharp-design-patterns\Behavioral\TemplateMethod\obj\Debug\net9.0\TemplateMethod.sourcelink.json
+D:\csharp-design-patterns\Behavioral\TemplateMethod\obj\Debug\net9.0\TemplateMethod.dll
+D:\csharp-design-patterns\Behavioral\TemplateMethod\obj\Debug\net9.0\refint\TemplateMethod.dll
+D:\csharp-design-patterns\Behavioral\TemplateMethod\obj\Debug\net9.0\TemplateMethod.pdb
+D:\csharp-design-patterns\Behavioral\TemplateMethod\obj\Debug\net9.0\TemplateMethod.genruntimeconfig.cache
+D:\csharp-design-patterns\Behavioral\TemplateMethod\obj\Debug\net9.0\ref\TemplateMethod.dll
