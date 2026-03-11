@@ -1,0 +1,15 @@
+D:\csharp-design-patterns\Behavioral\Mediator\bin\Debug\net9.0\Mediator.exe
+D:\csharp-design-patterns\Behavioral\Mediator\bin\Debug\net9.0\Mediator.deps.json
+D:\csharp-design-patterns\Behavioral\Mediator\bin\Debug\net9.0\Mediator.runtimeconfig.json
+D:\csharp-design-patterns\Behavioral\Mediator\bin\Debug\net9.0\Mediator.dll
+D:\csharp-design-patterns\Behavioral\Mediator\bin\Debug\net9.0\Mediator.pdb
+D:\csharp-design-patterns\Behavioral\Mediator\obj\Debug\net9.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-design-patterns\Behavioral\Mediator\obj\Debug\net9.0\Mediator.AssemblyInfoInputs.cache
+D:\csharp-design-patterns\Behavioral\Mediator\obj\Debug\net9.0\Mediator.AssemblyInfo.cs
+D:\csharp-design-patterns\Behavioral\Mediator\obj\Debug\net9.0\Mediator.csproj.CoreCompileInputs.cache
+D:\csharp-design-patterns\Behavioral\Mediator\obj\Debug\net9.0\Mediator.sourcelink.json
+D:\csharp-design-patterns\Behavioral\Mediator\obj\Debug\net9.0\Mediator.dll
+D:\csharp-design-patterns\Behavioral\Mediator\obj\Debug\net9.0\refint\Mediator.dll
+D:\csharp-design-patterns\Behavioral\Mediator\obj\Debug\net9.0\Mediator.pdb
+D:\csharp-design-patterns\Behavioral\Mediator\obj\Debug\net9.0\Mediator.genruntimeconfig.cache
+D:\csharp-design-patterns\Behavioral\Mediator\obj\Debug\net9.0\ref\Mediator.dll
