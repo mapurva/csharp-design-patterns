@@ -1,0 +1,15 @@
+D:\csharp-design-patterns\Behavioral\Memento\bin\Debug\net9.0\Memento.exe
+D:\csharp-design-patterns\Behavioral\Memento\bin\Debug\net9.0\Memento.deps.json
+D:\csharp-design-patterns\Behavioral\Memento\bin\Debug\net9.0\Memento.runtimeconfig.json
+D:\csharp-design-patterns\Behavioral\Memento\bin\Debug\net9.0\Memento.dll
+D:\csharp-design-patterns\Behavioral\Memento\bin\Debug\net9.0\Memento.pdb
+D:\csharp-design-patterns\Behavioral\Memento\obj\Debug\net9.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-design-patterns\Behavioral\Memento\obj\Debug\net9.0\Memento.AssemblyInfoInputs.cache
+D:\csharp-design-patterns\Behavioral\Memento\obj\Debug\net9.0\Memento.AssemblyInfo.cs
+D:\csharp-design-patterns\Behavioral\Memento\obj\Debug\net9.0\Memento.csproj.CoreCompileInputs.cache
+D:\csharp-design-patterns\Behavioral\Memento\obj\Debug\net9.0\Memento.sourcelink.json
+D:\csharp-design-patterns\Behavioral\Memento\obj\Debug\net9.0\Memento.dll
+D:\csharp-design-patterns\Behavioral\Memento\obj\Debug\net9.0\refint\Memento.dll
+D:\csharp-design-patterns\Behavioral\Memento\obj\Debug\net9.0\Memento.pdb
+D:\csharp-design-patterns\Behavioral\Memento\obj\Debug\net9.0\Memento.genruntimeconfig.cache
+D:\csharp-design-patterns\Behavioral\Memento\obj\Debug\net9.0\ref\Memento.dll
