@@ -1,0 +1,15 @@
+D:\csharp-design-patterns\Behavioral\Interpreter\bin\Debug\net9.0\Interpreter.exe
+D:\csharp-design-patterns\Behavioral\Interpreter\bin\Debug\net9.0\Interpreter.deps.json
+D:\csharp-design-patterns\Behavioral\Interpreter\bin\Debug\net9.0\Interpreter.runtimeconfig.json
+D:\csharp-design-patterns\Behavioral\Interpreter\bin\Debug\net9.0\Interpreter.dll
+D:\csharp-design-patterns\Behavioral\Interpreter\bin\Debug\net9.0\Interpreter.pdb
+D:\csharp-design-patterns\Behavioral\Interpreter\obj\Debug\net9.0\Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-design-patterns\Behavioral\Interpreter\obj\Debug\net9.0\Interpreter.AssemblyInfoInputs.cache
+D:\csharp-design-patterns\Behavioral\Interpreter\obj\Debug\net9.0\Interpreter.AssemblyInfo.cs
+D:\csharp-design-patterns\Behavioral\Interpreter\obj\Debug\net9.0\Interpreter.csproj.CoreCompileInputs.cache
+D:\csharp-design-patterns\Behavioral\Interpreter\obj\Debug\net9.0\Interpreter.sourcelink.json
+D:\csharp-design-patterns\Behavioral\Interpreter\obj\Debug\net9.0\Interpreter.dll
+D:\csharp-design-patterns\Behavioral\Interpreter\obj\Debug\net9.0\refint\Interpreter.dll
+D:\csharp-design-patterns\Behavioral\Interpreter\obj\Debug\net9.0\Interpreter.pdb
+D:\csharp-design-patterns\Behavioral\Interpreter\obj\Debug\net9.0\Interpreter.genruntimeconfig.cache
+D:\csharp-design-patterns\Behavioral\Interpreter\obj\Debug\net9.0\ref\Interpreter.dll
